@@ -1,0 +1,7 @@
+{
+  "name": "Farhanimasi AI - Generator Seni",
+  "description": "Ubah kata-kata menjadi karya seni digital yang menakjubkan dengan kekuatan AI Gemini. Buat gambar, lukisan, dan ilustrasi unik dalam hitungan detik.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
